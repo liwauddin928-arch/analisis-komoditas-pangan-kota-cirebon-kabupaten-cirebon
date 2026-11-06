@@ -1,4 +1,4 @@
-# Dashboard Harga Cabai Cirebon (Streamlit)
+# Dinamika Harga dan Risiko Lonjakan Komoditas Pangan Strategis Kota Cirebon vs Kabupaten Cirebon
 
 ## Menjalankan
 ```bash
