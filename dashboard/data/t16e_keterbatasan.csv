@@ -1,0 +1,15 @@
+kode,keterbatasan,uraian,mitigasi_pelaporan
+LIM01,Guncangan bersama,"Korelasi residu Kota–Kab 0,85–0,90; arah penyesuaian bukan kepemimpinan harga dan bukan kausalitas struktural.",klaim dibatasi pada daya prediksi dan penyesuaian; GFEVD tidak dipakai
+LIM02,Pembentukan harga PIHPS,"Setiap seri adalah rata-rata dari sekitar 4 kuotasi pedagang (2 pasar × 2 pedagang menurut FAQ BI); harga diskret, banyak nilai nol (31–49% pada cabai); pergantian pedagang sampel tidak diketahui dan dapat menggeser selisih Kota–Kab.",tanyakan ke BI/PIHPS; patahan tidak dikaitkan dengan peristiwa
+LIM03,Perubahan perlakuan hari libur,Sejak Januari 2023 harga hari libur dibawa dari hari sebelumnya (sebelumnya kosong); dasar kebijakan resmi belum ditemukan.,hari beku diperlakukan sebagai tidak ada pengamatan (Tahap 14–15); hasil tidak berubah material
+LIM04,Interval tidak seragam,"Interval multi-hari (Senin, sesudah libur) berjumlah ±22% dan lebih berisiko; half-life dalam observasi, bukan hari kalender.",dummi kalender; EVT dilaporkan per jenis interval
+LIM05,Bentuk ekor tidak teridentifikasi,"xi berganti tanda menurut ambang, run length, basis log/persen; CI90 memuat 0 pada hampir semua seri.",hanya besar dan frekuensi ekstrem yang dilaporkan
+LIM06,Klaim asimetri tidak informatif,Efek minimum terdeteksi ≥ |alpha|; uji hanya mampu mendeteksi asimetri ekstrem.,tulis: uji tidak mampu mendeteksi asimetri kecuali sangat besar
+LIM07,Rezim rata-rata selisih,Tanggal patahan tidak pasti (CI lebar untuk cabai merah besar); patahan cabai merah besar tidak kokoh.,tanggal tidak dikaitkan dengan peristiwa
+LIM08,Cabai rawit,"alpha_K tidak stabil menurut spesifikasi (log vs rupiah); residu VAR tidak putih sampai lag 12 (autokorelasi sangat kecil secara ekonomi, |ACF| ≤ 0,07).",inferensi HAC/bootstrap; klaim Kota menyesuaikan pada rawit tidak dibuat
+LIM09,Pola hari raya,Hanya 7 peristiwa per hari raya; tiga cabai bergerak bersama; tidak ada yang lolos koreksi Holm.,dilaporkan sebagai pola deskriptif
+LIM10,Satu pasang wilayah,Generalisasi ke daerah lain tidak dapat dinyatakan.,tidak diklaim; saran penelitian lanjutan
+LIM11,Banyak uji,Ratusan uji dilakukan sepanjang tahap; hanya keluarga utama 18 uji yang dikoreksi.,uji lain eksploratori; tingkat bukti memakai konsistensi lintas spesifikasi
+LIM12,Simulasi validasi terbatas,"Skenario simulasi mendekati, bukan menyamai, data nyata; ukuran uji ECM 6–7% (sedikit liberal); jumlah ulangan GPD (50) dan regresi kuantil (40) kecil.",SE Monte Carlo dilaporkan di 15C
+LIM13,Kalender libur,Kalender resmi 2020–2024 diambil dari paket 'holidays' dan divalidasi peneliti terhadap SKB; 2025–2026 dicocokkan langsung dengan dokumen SKB.,dicatat sebagai sumber sekunder terverifikasi
+LIM14,Pencatatan penulisan,Daftar pasar sampel Kota/Kabupaten Cirebon dan alasan Kabupaten Cirebon ada di PIHPS belum diketahui (desain awal PIHPS 82 kota).,ajukan pertanyaan ke BI Kantor Perwakilan Cirebon / layanan PIHPS

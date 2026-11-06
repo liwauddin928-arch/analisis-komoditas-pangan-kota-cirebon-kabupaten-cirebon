@@ -1,0 +1,15 @@
+kode,istilah,definisi,tahap_rujukan
+DEF01,Unit dan periode,"Observasi harian hari kerja (Sen–Jum) per komoditas × wilayah; 8 komoditas, Kota dan Kabupaten Cirebon; 2020-01-01 s.d. 2026-09-30 (grid 1.761 tanggal).",t5
+DEF02,Interval perubahan,"(a) NILAI-KE-NILAI (Tahap 5 dst.): perubahan antara dua observasi valid-di-kedua-wilayah berurutan, melintasi hari kosong; N = 1689 per komoditas. (b) BARIS BERURUTAN (Tahap 1–4): dua baris berurutan pada grid kalender dan keduanya valid; N = 1640. Naskah memakai (a); jangan mencampur angka (a) dan (b).",t1–t5
+DEF03,Satuan perubahan,"Perubahan persen = (P_t/P_{t−1} − 1)·100 untuk skrining kandidat dan EVT (Tahap 5–13); selisih log ×100 untuk VAR, ECM, regresi kuantil, dan EVT Tahap 14 (basis log menghasilkan ukuran lebih kecil untuk kenaikan besar).",t5–t15
+DEF04,Hari kosong,Hari kerja yang seluruh seri tidak memiliki harga (data tidak dilaporkan); umumnya hari libur resmi; tidak diimputasi.,t5
+DEF05,Hari beku,Hari kerja dengan ≥90% dari 14 seri non-beras tidak berubah terhadap observasi valid sebelumnya (harga hari sebelumnya dibawa). Tahap 14–15 memperlakukannya sebagai TIDAK ADA pengamatan di semua tahun.,t14–t15
+DEF06,Kandidat ekstrem ≥20%,"Interval dengan |P_t − P_{t−1}|·100 ≥ 20·P_{t−1} pada salah satu wilayah (berbasis harga, bukan persen terbulat). Alat skrining, bukan penetapan anomali atau krisis.","t5, t8"
+DEF07,Premi Kota,Selisih ln Kota − ln Kab ×100 (persen) dan selisih rupiah S = P_Kota − P_Kab.,"t6, t12, t13"
+DEF08,Deviasi ECM (d_t),ln Kota − ln Kab dikurangi rata-rata: seluruh sampel (global) atau per rezim (Tahap 12A).,t10–t15
+DEF09,Half-life,"ln(0,5)/ln(ρ), ρ = koefisien AR(1) pada d_t; satuan = hari kerja observasi (interval tidak seragam diakui). Dilaporkan sebagai rentang antar spesifikasi.","t10c, t14b"
+DEF10,Kejadian ekstrem (EVT),"Eksedan ekor KENAIKAN di atas ambang (kuantil 0,95 pada Tahap 10/13; ambang tetap 10% pada Tahap 14); klaster dengan run length 5 observasi; GPD pada maksimum klaster. Ambang kebijakan 20% adalah konsep terpisah dari ambang EVT.","t10f, t14a"
+DEF11,Level kembali,x_m = u + (σ/ξ)[(mλ)^ξ − 1]; m = 250 observasi ≈ 1 tahun kerja; λ = laju klaster per interval; Tahap 14 melaporkan terpisah untuk interval 1 hari dan multi-hari.,"t10f, t14a"
+DEF12,Ketergantungan ekstrem χ(q),P(Kab > kuantil q | Kota > kuantil q) pada interval yang sama; acuan bebas = 1 − q; kuantil strict (>) sehingga nilai kembar menurunkan taksiran.,"t9c, t13g"
+DEF13,Jendela hari raya,PRA = H−30..H−1 dan HARI = H..H+7 (hari kalender); H dari penetapan pemerintah; kalender libur resmi 2020–2026 divalidasi peneliti terhadap SKB 3 Menteri.,t14c
+DEF14,Tingkat bukti,"Tingkat 1/2/3 menurut aturan eksplisit di 16D: konsistensi lintas spesifikasi, koreksi uji ganda, validasi simulasi, dan kontrol negatif. Bukan probabilitas kebenaran dan bukan bukti kausal.","t15, t16"

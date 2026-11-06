@@ -1,0 +1,22 @@
+kode,uraian,status,nilai_terhitung,acuan,kritis
+C01,8 komoditas x 2 wilayah,PASS,8 x 2,8 x 2,True
+C02,Setiap seri memiliki baris untuk seluruh tanggal kalender data (grid sama),PASS,1761,1761,True
+C03,"Tanggal kosong bersifat SERENTAK (semua seri kosong atau tidak ada yang kosong), bukan data hilang acak",PASS,"kosong penuh=70, kosong sebagian=1",sebagian <= 1 (15 Jun 2026 hanya Kabupaten),True
+C04,Jumlah tanggal valid bersama Kota-Kabupaten SAMA untuk semua komoditas,PASS,1690,satu nilai (1.690),True
+C05,Interval bersama per komoditas = tanggal valid bersama - 1 dan total baris = 8 x interval,PASS,13512 baris; 1689 per komoditas,8 x 1689,True
+C20,Harga pada interval bersama = harga pada data_harga (tanggal dan tanggal sebelumnya),PASS,0 ketidakcocokan dari 27024 baris-seri,0,True
+C21,Perubahan persen pada interval bersama = (P_t/P_{t-1} - 1)·100 dihitung ulang,PASS,0 ketidakcocokan,0,True
+C06,Komposisi panjang interval berjumlah total interval,PASS,"{'1 hari': 1316, '2-3 hari': 346, '>3 hari': 27}",1689,True
+C07,Komposisi interval cocok dengan ringkasan sensitivitas Tahap 5,PASS,"{'1_hari': 1316, '2_3_hari': 346, 'lebih_dari_3_hari': 27}",1689,False
+C08,SD perubahan (rata-rata Kota/Kab) Tahap 8 = hitung ulang dari data dasar,PASS,8 komoditas,selisih < 1e-6,True
+C09,Jumlah interval kandidat >=20% Tahap 8 = hitung ulang,PASS,8 komoditas,sama persis,True
+C10,Proporsi nol dan korelasi Tahap 8 = hitung ulang,PASS,8 komoditas,selisih < 1e-6,True
+C11,Status kelayakan EVT Tahap 7 = Tahap 8,PASS,8 komoditas,sama,False
+C12,"Hari beku (>=90% seri tidak berubah) adalah hari kerja libur resmi (presisi >= 0,90)",PASS,"68 hari beku, presisi 0.941",">= 0,90",False
+C13,"Perlakuan hari libur: 2020-2022 mayoritas KOSONG, 2024-2026 mayoritas BEKU (perubahan kebijakan terdokumentasi di data)",PASS,"{2020: 'kosong 95% / beku 0%', 2021: 'kosong 100% / beku 0%', 2022: 'kosong 100% / beku 0%', 2023: 'kosong 38% / beku 57%', 2024: 'kosong 4% / beku 75%', 2025: 'kosong 12% / beku 79%', 2026: 'kosong 16% / beku 79%'}",2020-22 kosong>=90%; 2024-26 beku>=70%,False
+C14,"Placebo chi(0,95): pasangan Kota-Kab komoditas sama jauh lebih tinggi daripada lintas komoditas (selisih > 0,30; placebo < 0,30)",PASS,"asli=0.671, placebo=0.094","selisih > 0,30",False
+C15,Half-life global (log) Tahap 10C = Tahap 14B (spesifikasi sama),PASS,"{'Cabai Merah Besar': 1.1738, 'Cabai Merah Keriting': 1.697, 'Cabai Rawit Merah': 1.685}","{'Cabai Merah Besar': 1.1738, 'Cabai Merah Keriting': 1.697, 'Cabai Rawit Merah': 1.685}",True
+C16,Taksiran titik EVT Tahap 10F = Tahap 13G (benih sama; hanya jumlah bootstrap berbeda),PASS,6 seri,sama persis,True
+C17,Jumlah observasi rezim Tahap 12A = jumlah tanggal valid bersama,PASS,"{'Cabai Merah Besar': 1690, 'Cabai Merah Keriting': 1690, 'Cabai Rawit Merah': 1690}",1690,True
+C18,Koreksi uji ganda koheren: p Holm >= p mentah dan p BH <= p Holm; keluarga 18 uji,PASS,18 uji,18; Holm>=mentah; BH<=Holm,True
+C19,"Simulasi validasi: cakupan >= 0,80 dan ukuran uji <= 0,10 (ECM, Toda-Yamamoto, chi)",PASS,"[0.907, 0.9, 0.06, 0.073, 0.953]",kriteria 15C,False

@@ -1,0 +1,166 @@
+tanggal,hari,jenis,keterangan,hari_kerja,status_di_data_PIHPS,sumber_kalender,pct_seri_tidak_berubah
+2020-01-01,Wednesday,libur nasional,Tahun Baru Masehi,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-01-25,Saturday,libur nasional,Tahun Baru Imlek,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-03-22,Sunday,libur nasional,Isra Mikraj Nabi Muhammad,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-03-25,Wednesday,libur nasional,Hari Suci Nyepi,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-04-10,Friday,libur nasional,Wafat Yesus Kristus,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-05-01,Friday,libur nasional,Hari Buruh Internasional,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-05-07,Thursday,libur nasional,Hari Raya Waisak,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-05-21,Thursday,libur nasional,Kenaikan Yesus Kristus,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-05-24,Sunday,libur nasional,Hari Raya Idul Fitri,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-05-25,Monday,libur nasional,Hari kedua dari Hari Raya Idul Fitri,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-06-01,Monday,libur nasional,Hari Lahir Pancasila,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-07-31,Friday,libur nasional,Hari Raya Idul Adha,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-08-17,Monday,libur nasional,Hari Kemerdekaan Republik Indonesia,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-08-20,Thursday,libur nasional,Tahun Baru Islam,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-08-21,Friday,cuti bersama,Cuti Bersama Tahun Baru Islam,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-10-28,Wednesday,cuti bersama,Cuti Bersama Maulid Nabi Muhammad,True,BERUBAH (harga bergerak),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),29.0
+2020-10-29,Thursday,libur nasional,Maulid Nabi Muhammad,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-10-30,Friday,cuti bersama,Cuti Bersama Maulid Nabi Muhammad,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-12-09,Wednesday,libur nasional,Hari Pemilihan Kepala Daerah,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-12-24,Thursday,cuti bersama,Cuti Bersama Hari Raya Natal,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-12-25,Friday,libur nasional,Hari Raya Natal,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2020-12-31,Thursday,cuti bersama,Pegangti Cuti Bersama Hari Raya Idul Fitri,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2021-01-01,Friday,libur nasional,Tahun Baru Masehi,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2021-02-12,Friday,libur nasional,Tahun Baru Imlek,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2021-03-11,Thursday,libur nasional,Isra Mikraj Nabi Muhammad,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2021-03-14,Sunday,libur nasional,Hari Suci Nyepi,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2021-04-02,Friday,libur nasional,Wafat Yesus Kristus,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2021-05-01,Saturday,libur nasional,Hari Buruh Internasional,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2021-05-12,Wednesday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2021-05-13,Thursday,libur nasional,Hari Raya Idul Fitri; Kenaikan Yesus Kristus,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2021-05-14,Friday,libur nasional,Hari kedua dari Hari Raya Idul Fitri,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2021-05-26,Wednesday,libur nasional,Hari Raya Waisak,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2021-06-01,Tuesday,libur nasional,Hari Lahir Pancasila,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2021-07-20,Tuesday,libur nasional,Hari Raya Idul Adha,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2021-08-11,Wednesday,libur nasional,Tahun Baru Islam,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2021-08-17,Tuesday,libur nasional,Hari Kemerdekaan Republik Indonesia,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2021-10-20,Wednesday,libur nasional,Maulid Nabi Muhammad,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2021-12-25,Saturday,libur nasional,Hari Raya Natal,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-01-01,Saturday,libur nasional,Tahun Baru Masehi,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-02-01,Tuesday,libur nasional,Tahun Baru Imlek,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-02-28,Monday,libur nasional,Isra Mikraj Nabi Muhammad,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-03-03,Thursday,libur nasional,Hari Suci Nyepi,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-04-15,Friday,libur nasional,Wafat Yesus Kristus,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-04-29,Friday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-05-01,Sunday,libur nasional,Hari Buruh Internasional,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-05-02,Monday,libur nasional,Hari Raya Idul Fitri,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-05-03,Tuesday,libur nasional,Hari kedua dari Hari Raya Idul Fitri,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-05-04,Wednesday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-05-05,Thursday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-05-06,Friday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-05-16,Monday,libur nasional,Hari Raya Waisak,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-05-26,Thursday,libur nasional,Kenaikan Yesus Kristus,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-06-01,Wednesday,libur nasional,Hari Lahir Pancasila,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-07-10,Sunday,libur nasional,Hari Raya Idul Adha,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-07-30,Saturday,libur nasional,Tahun Baru Islam,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-08-17,Wednesday,libur nasional,Hari Kemerdekaan Republik Indonesia,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-10-08,Saturday,libur nasional,Maulid Nabi Muhammad,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2022-12-25,Sunday,libur nasional,Hari Raya Natal,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2023-01-01,Sunday,libur nasional,Tahun Baru Masehi,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2023-01-22,Sunday,libur nasional,Tahun Baru Imlek,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2023-01-23,Monday,cuti bersama,Cuti Bersama Tahun Baru Imlek,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2023-02-18,Saturday,libur nasional,Isra Mikraj Nabi Muhammad,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2023-03-22,Wednesday,libur nasional,Hari Suci Nyepi,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2023-03-23,Thursday,cuti bersama,Cuti Bersama Hari Suci Nyepi,True,BERUBAH (harga bergerak),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),43.0
+2023-04-07,Friday,libur nasional,Wafat Yesus Kristus,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2023-04-19,Wednesday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2023-04-20,Thursday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2023-04-21,Friday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2023-04-22,Saturday,libur nasional,Hari Raya Idul Fitri,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2023-04-23,Sunday,libur nasional,Hari kedua dari Hari Raya Idul Fitri,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2023-04-24,Monday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2023-04-25,Tuesday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2023-05-01,Monday,libur nasional,Hari Buruh Internasional,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2023-05-18,Thursday,libur nasional,Kenaikan Yesus Kristus,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2023-06-01,Thursday,libur nasional,Hari Lahir Pancasila,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2023-06-02,Friday,cuti bersama,Cuti Bersama Hari Raya Waisak,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2023-06-04,Sunday,libur nasional,Hari Raya Waisak,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2023-06-28,Wednesday,cuti bersama,Cuti Bersama Hari Raya Idul Adha,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2023-06-29,Thursday,libur nasional,Hari Raya Idul Adha,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2023-06-30,Friday,cuti bersama,Cuti Bersama Hari Raya Idul Adha,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2023-07-19,Wednesday,libur nasional,Tahun Baru Islam,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2023-08-17,Thursday,libur nasional,Hari Kemerdekaan Republik Indonesia,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2023-09-28,Thursday,libur nasional,Maulid Nabi Muhammad,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2023-12-25,Monday,libur nasional,Hari Raya Natal,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2023-12-26,Tuesday,cuti bersama,Cuti Bersama Hari Raya Natal,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2024-01-01,Monday,libur nasional,Tahun Baru Masehi,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2024-02-08,Thursday,libur nasional,Isra Mikraj Nabi Muhammad,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2024-02-09,Friday,cuti bersama,Cuti Bersama Tahun Baru Imlek,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2024-02-10,Saturday,libur nasional,Tahun Baru Imlek,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2024-02-14,Wednesday,libur nasional,Hari Pemilihan Umum,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2024-03-11,Monday,libur nasional,Hari Suci Nyepi,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2024-03-12,Tuesday,cuti bersama,Cuti Bersama Hari Suci Nyepi,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2024-03-29,Friday,libur nasional,Wafat Yesus Kristus,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2024-03-31,Sunday,libur nasional,Kebangkitan Yesus Kristus,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2024-04-08,Monday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2024-04-09,Tuesday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2024-04-10,Wednesday,libur nasional,Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2024-04-11,Thursday,libur nasional,Hari kedua dari Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2024-04-12,Friday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2024-04-15,Monday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2024-05-01,Wednesday,libur nasional,Hari Buruh Internasional,True,BERUBAH (harga bergerak),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),64.0
+2024-05-09,Thursday,libur nasional,Kenaikan Yesus Kristus,True,BERUBAH (harga bergerak),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),71.0
+2024-05-10,Friday,cuti bersama,Cuti Bersama Kenaikan Yesus Kristus,True,BERUBAH (harga bergerak),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),71.0
+2024-05-23,Thursday,libur nasional,Hari Raya Waisak,True,KOSONG (tanpa harga),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2024-05-24,Friday,cuti bersama,Cuti Bersama Hari Raya Waisak,True,BERUBAH (harga bergerak),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),71.0
+2024-06-01,Saturday,libur nasional,Hari Lahir Pancasila,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2024-06-17,Monday,libur nasional,Hari Raya Idul Adha,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2024-06-18,Tuesday,cuti bersama,Cuti Bersama Hari Raya Idul Adha,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2024-07-07,Sunday,libur nasional,Tahun Baru Islam,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2024-08-17,Saturday,libur nasional,Hari Kemerdekaan Republik Indonesia,False,akhir pekan,paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),
+2024-09-16,Monday,libur nasional,Maulid Nabi Muhammad,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2024-11-27,Wednesday,libur nasional,Hari Pemilihan Kepala Daerah,True,BERUBAH (harga bergerak),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),79.0
+2024-12-25,Wednesday,libur nasional,Hari Raya Natal,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2024-12-26,Thursday,cuti bersama,Cuti Bersama Hari Raya Natal,True,BEKU (harga sama dengan hari sebelumnya),paket 'holidays' v0.107 (belum dicocokkan dengan PDF SKB),100.0
+2025-01-01,Wednesday,libur nasional,Tahun Baru Masehi,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-01-27,Monday,libur nasional,Isra Mikraj Nabi Muhammad,True,KOSONG (tanpa harga),dicocokkan dengan SKB/kutipan resmi,
+2025-01-28,Tuesday,cuti bersama,Cuti Bersama Tahun Baru Imlek,True,KOSONG (tanpa harga),dicocokkan dengan SKB/kutipan resmi,
+2025-01-29,Wednesday,libur nasional,Tahun Baru Imlek,True,KOSONG (tanpa harga),dicocokkan dengan SKB/kutipan resmi,
+2025-03-28,Friday,cuti bersama,Cuti Bersama Hari Suci Nyepi,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-03-29,Saturday,libur nasional,Hari Suci Nyepi,False,akhir pekan,dicocokkan dengan SKB/kutipan resmi,
+2025-03-31,Monday,libur nasional,Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-04-01,Tuesday,libur nasional,Hari kedua dari Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-04-02,Wednesday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-04-03,Thursday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-04-04,Friday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-04-07,Monday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-04-18,Friday,libur nasional,Wafat Yesus Kristus,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-04-20,Sunday,libur nasional,Kebangkitan Yesus Kristus,False,akhir pekan,dicocokkan dengan SKB/kutipan resmi,
+2025-05-01,Thursday,libur nasional,Hari Buruh Internasional,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-05-12,Monday,libur nasional,Hari Raya Waisak,True,BERUBAH (harga bergerak),dicocokkan dengan SKB/kutipan resmi,57.0
+2025-05-13,Tuesday,cuti bersama,Cuti Bersama Hari Raya Waisak,True,BERUBAH (harga bergerak),dicocokkan dengan SKB/kutipan resmi,50.0
+2025-05-29,Thursday,libur nasional,Kenaikan Yesus Kristus,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-05-30,Friday,cuti bersama,Cuti Bersama Kenaikan Yesus Kristus,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-06-01,Sunday,libur nasional,Hari Lahir Pancasila,False,akhir pekan,dicocokkan dengan SKB/kutipan resmi,
+2025-06-06,Friday,libur nasional,Hari Raya Idul Adha,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-06-09,Monday,cuti bersama,Cuti Bersama Hari Raya Idul Adha,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-06-27,Friday,libur nasional,Tahun Baru Islam,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-08-17,Sunday,libur nasional,Hari Kemerdekaan Republik Indonesia,False,akhir pekan,dicocokkan dengan SKB/kutipan resmi,
+2025-08-18,Monday,cuti bersama,Cuti Bersama Hari Kemerdekaan Republik Indonesia,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-09-05,Friday,libur nasional,Maulid Nabi Muhammad,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-12-25,Thursday,libur nasional,Hari Raya Natal,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2025-12-26,Friday,cuti bersama,Cuti Bersama Hari Raya Natal,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2026-01-01,Thursday,libur nasional,Tahun Baru Masehi,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2026-01-16,Friday,libur nasional,Isra Mikraj Nabi Muhammad,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2026-02-16,Monday,cuti bersama,Cuti Bersama Tahun Baru Imlek,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2026-02-17,Tuesday,libur nasional,Tahun Baru Imlek,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2026-03-18,Wednesday,cuti bersama,Cuti Bersama Hari Suci Nyepi,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2026-03-19,Thursday,libur nasional,Hari Suci Nyepi,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2026-03-20,Friday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2026-03-21,Saturday,libur nasional,Hari Raya Idul Fitri,False,akhir pekan,dicocokkan dengan SKB/kutipan resmi,
+2026-03-22,Sunday,libur nasional,Hari kedua dari Hari Raya Idul Fitri,False,akhir pekan,dicocokkan dengan SKB/kutipan resmi,
+2026-03-23,Monday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2026-03-24,Tuesday,cuti bersama,Cuti Bersama Hari Raya Idul Fitri,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2026-04-03,Friday,libur nasional,Wafat Yesus Kristus,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2026-04-05,Sunday,libur nasional,Kebangkitan Yesus Kristus,False,akhir pekan,dicocokkan dengan SKB/kutipan resmi,
+2026-05-01,Friday,libur nasional,Hari Buruh Internasional,True,BERUBAH (harga bergerak),dicocokkan dengan SKB/kutipan resmi,79.0
+2026-05-14,Thursday,libur nasional,Kenaikan Yesus Kristus,True,KOSONG (tanpa harga),dicocokkan dengan SKB/kutipan resmi,
+2026-05-15,Friday,cuti bersama,Cuti Bersama Kenaikan Yesus Kristus,True,KOSONG (tanpa harga),dicocokkan dengan SKB/kutipan resmi,
+2026-05-27,Wednesday,libur nasional,Hari Raya Idul Adha,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2026-05-28,Thursday,cuti bersama,Cuti Bersama Hari Raya Idul Adha,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2026-05-31,Sunday,libur nasional,Hari Raya Waisak,False,akhir pekan,dicocokkan dengan SKB/kutipan resmi,
+2026-06-01,Monday,libur nasional,Hari Lahir Pancasila,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2026-06-16,Tuesday,libur nasional,Tahun Baru Islam,True,KOSONG (tanpa harga),dicocokkan dengan SKB/kutipan resmi,
+2026-08-17,Monday,libur nasional,Hari Kemerdekaan Republik Indonesia,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
+2026-08-25,Tuesday,libur nasional,Maulid Nabi Muhammad,True,BEKU (harga sama dengan hari sebelumnya),dicocokkan dengan SKB/kutipan resmi,100.0
