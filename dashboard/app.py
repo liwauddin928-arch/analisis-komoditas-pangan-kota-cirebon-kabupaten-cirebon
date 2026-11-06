@@ -12,7 +12,7 @@ import streamlit as st
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
-st.set_page_config(page_title="Harga Cabai Cirebon", page_icon="🌶️", layout="wide")
+st.set_page_config(page_title="Harga Cabai Cirebon", page_icon="", layout="wide")
 
 INTI = ["Cabai Merah Besar", "Cabai Merah Keriting", "Cabai Rawit Merah"]
 SEMUA = ["Beras Kualitas Medium I", "Bawang Merah Ukuran Sedang", "Bawang Putih Ukuran Sedang"] + INTI + ["Daging Ayam Ras Segar", "Telur Ayam Ras Segar"]
